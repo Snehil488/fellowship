@@ -1,1 +1,3 @@
-this is new era .Changes being made. This is my new sample feature.
+Changes being made. This is my new sample feature.
+trying conflict.
+
